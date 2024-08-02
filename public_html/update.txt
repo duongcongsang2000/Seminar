@@ -1,0 +1,16 @@
+Exhibiz 2.0.2
+Fixes for submenu not visible on mobile
+
+Exhibiz 2.0.1
+Fixes for menu expand not visible on mobile
+
+Exhibiz 2
+New: Bootstrap 5 framework
+New: code optimized for better performance
+New: smooth parallax
+New: typography styles
+
+Exhibiz 1.1
+New 'expanded content area'
+Improvements for styles
+Improvements for mobile
